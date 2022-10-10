@@ -1,0 +1,21 @@
+{
+    "name": "howl",
+    "displayName": "double tap",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "howl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/howl-color-theme.json"
+            }
+        ]
+    }
+}
