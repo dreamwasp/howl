@@ -1,3 +1,4 @@
 # README
 
-howl's moving castle inspired vscode extension
+howl's moving castle inspired vscode theme
+
